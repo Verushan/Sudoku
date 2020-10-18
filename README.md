@@ -6,5 +6,5 @@ Both these codes work for any grid sizes 4x4 till 25x25. To work with larger gri
 
 I hope my code and comments helps broaden your understanding on these two methods of solving Sudoku puzzles. Enjoy!
 
-Credit for Dancing Links goes out to Donald E. Knuth for coming up with this beautiful method.
+Credit for Dancing Links goes out to Donald E. Knuth for finding this beautiful method.
 Thesis for Dancing Links: https://www.kth.se/social/files/58861771f276547fe1dbf8d1/HLaestanderMHarrysson_dkand14.pdf
