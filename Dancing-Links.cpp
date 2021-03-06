@@ -16,7 +16,7 @@ using namespace std;
     I suggest you give this a read before proceeding to understand the code
 */
 
-int gridSize = 0; // Used to store the box size
+int gridSize = 0; // Used to store the grid size
 
 vector<vector<int>> grid;
 forward_list<int> solution; // This stores the values to be inserted into the grid
